@@ -3,7 +3,7 @@
 This project showcases a dynamic and interactive **Sales Dashboard** built using **Microsoft Excel**. It provides deep insights into Amazon Electronics sales data for the year **2025** — including product-wise performance, customer distribution, payment method usage, and monthly trends.
 
 ## Dataset used
--<a href-"https://github.com/janakipatel39-a11y/Excel-Project/blob/main/Amazon_sales_report_-2025.xlsx"> Dataset views
+-<a href-"https://github.com/janakidevi2025/Excel-Project/blob/main/Amazon_sales_report_-2025.xlsx"> Dataset views
 
 ## 🚀 Key Highlights
 
@@ -22,7 +22,7 @@ This project showcases a dynamic and interactive **Sales Dashboard** built using
 - **Stacked Column Chart** – Displays monthly **sales quantity**
 - **Slicers** – Interactive filters for **Customer Location**, **Order Status**, and **Month**
 
--Dashboard <a href-"https://github.com/janakipatel39-a11y/Excel-Project/blob/main/Screenshot%202025-09-07%20134105.jpg"> Dashboard Views
+-Dashboard <a href-"https://github.com/janakidevi2025/Excel-Project/blob/main/Screenshot%202025-09-07%20134105.jpg"> Dashboard Views
 
 ## 🔍 Business Insights
 
@@ -49,7 +49,8 @@ This project showcases a dynamic and interactive **Sales Dashboard** built using
 - Data Cleaning & Transformation
 - Dashboard Design & Visualization Best Practices
 
-![Screenshot 2025-09-07 134105](https://github.com/user-attachments/assets/435a3480-1149-477b-8b00-0f54a641aac8)
+![Screenshot 2025-09-07 134105](https://github.com/user-attachments/assets/62bf5256-ab2f-47d4-98d1-da714af8f66d)
+
 
 
 
